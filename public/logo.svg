@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 100" width="400" height="100">
+  <defs>
+    <linearGradient id="goldGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#FFD700;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#FFA500;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#FFD700;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="redGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#C8102E;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#8B0000;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="400" height="100" fill="#1e3a8a" rx="10"/>
+  
+  <!-- Title -->
+  <text x="200" y="35" font-family="Arial Black, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="url(#goldGradient)">
+    WHO WANTS TO BE A
+  </text>
+  
+  <!-- Main Title -->
+  <text x="200" y="70" font-family="Arial Black, sans-serif" font-size="32" font-weight="bold" text-anchor="middle" fill="url(#redGradient)">
+    BUILDONAIRE!
+  </text>
+  
+  <!-- Dollar signs -->
+  <text x="50" y="60" font-family="Arial, sans-serif" font-size="40" fill="#FFD100" opacity="0.3">$</text>
+  <text x="350" y="60" font-family="Arial, sans-serif" font-size="40" fill="#FFD100" opacity="0.3">$</text>
+</svg>

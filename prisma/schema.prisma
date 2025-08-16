@@ -1,0 +1,186 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+// Looking for ways to speed up your queries, or scale easily with your serverless or edge functions?
+// Try Prisma Accelerate: https://pris.ly/cli/accelerate-init
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = "file:./dev.db"
+}
+
+model Player {
+  id              String    @id @default(cuid())
+  firstName       String
+  lastName        String
+  email           String    @unique
+  company         String?
+  jobTitle        String?
+  companySize     String?
+  phone           String?
+  productInterest String?   // JSON string for SQLite
+  marketingOptIn  Boolean   @default(false)
+  partnerOptIn    Boolean   @default(false)
+  leadScore       String?   // hot, warm, cool
+  createdAt       DateTime  @default(now())
+  updatedAt       DateTime  @updatedAt
+  
+  games           Game[]
+  prizes          Prize[]
+  
+  @@index([email])
+  @@index([createdAt])
+}
+
+model Game {
+  id                String    @id @default(cuid())
+  playerId          String
+  player            Player    @relation(fields: [playerId], references: [id])
+  startedAt         DateTime  @default(now())
+  endedAt           DateTime?
+  finalScore        Int       @default(0)
+  prizeLevel        String?   // $100, $200, etc.
+  questionsAnswered Int       @default(0)
+  correctAnswers    Int       @default(0)
+  lifelinesUsed     String?   // JSON string for SQLite: ["50-50", "phone", "audience"]
+  status            GameStatus @default(IN_PROGRESS)
+  eventId           String?
+  event             Event?    @relation(fields: [eventId], references: [id])
+  
+  questions         GameQuestion[]
+  
+  @@index([playerId])
+  @@index([startedAt])
+  @@index([status])
+  @@index([eventId])
+}
+
+enum GameStatus {
+  IN_PROGRESS
+  COMPLETED
+  ABANDONED
+  WON
+}
+
+model GameQuestion {
+  id              String    @id @default(cuid())
+  gameId          String
+  game            Game      @relation(fields: [gameId], references: [id])
+  questionNumber  Int
+  question        String
+  options         String    // JSON string for SQLite
+  correctAnswer   String
+  selectedAnswer  String?
+  isCorrect       Boolean?
+  timeSpent       Int?      // in seconds
+  difficulty      String    // easy, medium, hard, expert
+  category        String?
+  lifelineUsed    String?
+  answeredAt      DateTime?
+  
+  @@index([gameId])
+  @@unique([gameId, questionNumber])
+}
+
+model Question {
+  id            String    @id @default(cuid())
+  question      String
+  options       String    // JSON string for SQLite
+  correctAnswer String
+  explanation   String?
+  difficulty    String    // easy, medium, hard, expert
+  category      String
+  source        String    @default("openai") // openai, manual
+  timesUsed     Int       @default(0)
+  correctRate   Float     @default(0)
+  createdAt     DateTime  @default(now())
+  updatedAt     DateTime  @updatedAt
+  
+  @@index([difficulty])
+  @@index([category])
+}
+
+model Prize {
+  id            String    @id @default(cuid())
+  playerId      String
+  player        Player    @relation(fields: [playerId], references: [id])
+  eventId       String?
+  event         Event?    @relation(fields: [eventId], references: [id])
+  type          String    // discount, merchandise, entry
+  description   String
+  value         String?
+  code          String?   @unique
+  claimed       Boolean   @default(false)
+  claimedAt     DateTime?
+  expiresAt     DateTime?
+  createdAt     DateTime  @default(now())
+  
+  @@index([playerId])
+  @@index([eventId])
+  @@index([claimed])
+}
+
+model Event {
+  id            String    @id @default(cuid())
+  name          String
+  location      String?
+  startDate     DateTime
+  endDate       DateTime
+  settings      Json?     // JSON field for flexible event-specific settings
+  prizeConfig   Json?     // JSON field for prize tier configuration
+  isActive      Boolean   @default(false)
+  createdAt     DateTime  @default(now())
+  updatedAt     DateTime  @updatedAt
+  
+  games         Game[]
+  prizes        Prize[]
+  leaderboards  Leaderboard[]
+  
+  @@index([isActive])
+  @@index([startDate, endDate])
+}
+
+model Leaderboard {
+  id            String    @id @default(cuid())
+  eventId       String?
+  event         Event?    @relation(fields: [eventId], references: [id])
+  type          String    // daily, weekly, all-time, event
+  playerName    String
+  score         Int
+  questionsAnswered Int
+  gameTime      Int?      // in seconds
+  date          DateTime
+  metadata      Json?
+  
+  @@index([eventId])
+  @@index([type])
+  @@index([date])
+  @@index([score])
+}
+
+model AdminUser {
+  id            String    @id @default(cuid())
+  email         String    @unique
+  password      String
+  role          String    @default("admin") // admin, staff, viewer
+  lastLogin     DateTime?
+  createdAt     DateTime  @default(now())
+  updatedAt     DateTime  @updatedAt
+}
+
+model SystemLog {
+  id            String    @id @default(cuid())
+  level         String    // info, warning, error
+  category      String    // game, lead, system, api
+  message       String
+  metadata      Json?
+  createdAt     DateTime  @default(now())
+  
+  @@index([level])
+  @@index([category])
+  @@index([createdAt])
+}

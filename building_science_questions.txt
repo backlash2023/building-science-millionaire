@@ -1,0 +1,1019 @@
+BUILDING SCIENCE MILLIONAIRE - TRIVIA QUESTIONS
+
+=== EASY LEVEL ($100 - $1,000) ===
+
+1. Question: What does the "R" in R-value stand for?
+   A) Resistance
+   B) Reflection  
+   C) Radiation
+   D) Retention
+   Answer: A) Resistance
+   Explanation: R-value measures thermal resistance - the ability of a material to resist heat flow.
+   Category: Insulation & Air Sealing
+   Difficulty: Easy
+
+2. Question: What is the primary purpose of a vapor barrier?
+   A) To prevent air leakage
+   B) To control moisture movement
+   C) To provide structural support
+   D) To improve insulation value
+   Answer: B) To control moisture movement
+   Explanation: Vapor barriers control the movement of water vapor through building assemblies to prevent condensation.
+   Category: Moisture Control
+   Difficulty: Easy
+
+3. Question: What does HVAC stand for?
+   A) High Voltage Air Conditioning
+   B) Heating, Ventilation, and Air Conditioning
+   C) Home Ventilation and Cooling
+   D) Heat, Vapor, and Air Control
+   Answer: B) Heating, Ventilation, and Air Conditioning
+   Explanation: HVAC systems provide thermal comfort and acceptable indoor air quality.
+   Category: HVAC Systems
+   Difficulty: Easy
+
+4. Question: Which building component is most important for preventing air leakage?
+   A) Insulation
+   B) Windows
+   C) Air barrier
+   D) Drywall
+   Answer: C) Air barrier
+   Explanation: The air barrier is the primary defense against unwanted air leakage in buildings.
+   Category: Insulation & Air Sealing
+   Difficulty: Easy
+
+5. Question: What is the most common unit for measuring air leakage in residential buildings?
+   A) CFM25
+   B) BTU/hr
+   C) ACH50
+   D) Both A and C
+   Answer: D) Both A and C
+   Explanation: CFM25 (cubic feet per minute at 25 pascals) and ACH50 (air changes per hour at 50 pascals) are both standard measurements.
+   Category: Building Codes & Standards
+   Difficulty: Easy
+
+=== EASY LEVEL CONTINUED ($2,000 - $4,000) ===
+
+6. Question: What is the recommended relative humidity range for indoor comfort and health?
+   A) 10-20%
+   B) 30-50%
+   C) 60-80%
+   D) 80-90%
+   Answer: B) 30-50%
+   Explanation: This range minimizes health issues, static electricity, and moisture problems while maintaining comfort.
+   Category: Ventilation & Indoor Air Quality
+   Difficulty: Easy
+
+7. Question: Which type of insulation has the highest R-value per inch?
+   A) Fiberglass batts
+   B) Cellulose
+   C) Spray foam
+   D) Rigid foam board
+   Answer: C) Spray foam
+   Explanation: Closed-cell spray foam typically provides R-6 to R-7 per inch, higher than other common insulation types.
+   Category: Insulation & Air Sealing
+   Difficulty: Easy
+
+8. Question: What does "ENERGY STAR" certification indicate for appliances?
+   A) They use renewable energy
+   B) They meet energy efficiency guidelines
+   C) They are made from recycled materials
+   D) They have smart controls
+   Answer: B) They meet energy efficiency guidelines
+   Explanation: ENERGY STAR products meet strict energy efficiency criteria set by the EPA.
+   Category: Energy Efficiency
+   Difficulty: Easy
+
+9. Question: What is the primary cause of ice dams on roofs?
+   A) Heavy snow load
+   B) Poor drainage
+   C) Heat loss through the roof
+   D) Wind direction
+   Answer: C) Heat loss through the roof
+   Explanation: Heat loss melts snow, which refreezes at the cold roof edge, creating ice dams.
+   Category: Moisture Control
+   Difficulty: Easy
+
+10. Question: Which window feature most significantly affects energy efficiency?
+    A) Frame material
+    B) U-factor
+    C) Size
+    D) Color
+    Answer: B) U-factor
+    Explanation: U-factor measures the rate of heat transfer through windows - lower values indicate better efficiency.
+    Category: Energy Efficiency
+    Difficulty: Easy
+
+=== MEDIUM LEVEL ($8,000 - $16,000) ===
+
+11. Question: What is the maximum allowable duct leakage for new construction under IECC 2021?
+    A) 4 CFM25 per 100 sq ft of conditioned floor area
+    B) 8 CFM25 per 100 sq ft of conditioned floor area
+    C) 10% of total system airflow
+    D) 15% of total system airflow
+    Answer: A) 4 CFM25 per 100 sq ft of conditioned floor area
+    Explanation: IECC 2021 requires duct leakage testing with maximum 4 CFM25 per 100 sq ft for new construction.
+    Category: Building Codes & Standards
+    Difficulty: Medium
+
+12. Question: In psychrometrics, what happens to relative humidity when air temperature increases while moisture content stays constant?
+    A) Relative humidity increases
+    B) Relative humidity decreases
+    C) Relative humidity stays the same
+    D) It depends on atmospheric pressure
+    Answer: B) Relative humidity decreases
+    Explanation: As temperature rises, air can hold more moisture, so the same absolute humidity represents a lower relative humidity.
+    Category: HVAC Systems
+    Difficulty: Medium
+
+13. Question: What is the primary difference between a heat pump and a standard air conditioner?
+    A) Heat pumps use less electricity
+    B) Heat pumps can reverse the refrigeration cycle
+    C) Heat pumps only work in warm climates
+    D) Heat pumps don't use refrigerant
+    Answer: B) Heat pumps can reverse the refrigeration cycle
+    Explanation: Heat pumps have a reversing valve that allows them to provide both heating and cooling.
+    Category: HVAC Systems
+    Difficulty: Medium
+
+14. Question: Which building orientation typically provides the best solar heat gain in winter for northern climates?
+    A) North-facing
+    B) South-facing
+    C) East-facing
+    D) West-facing
+    Answer: B) South-facing
+    Explanation: South-facing orientations receive maximum solar radiation during winter months in the northern hemisphere.
+    Category: Energy Efficiency
+    Difficulty: Medium
+
+15. Question: What is the recommended ventilation rate for residential kitchens according to ASHRAE 62.2?
+    A) 50 CFM continuous
+    B) 100 CFM intermittent
+    C) 5 air changes per hour
+    D) Based on range hood capacity
+    Answer: B) 100 CFM intermittent
+    Explanation: ASHRAE 62.2 requires 100 CFM intermittent or 25 CFM continuous ventilation for residential kitchens.
+    Category: Ventilation & Indoor Air Quality
+    Difficulty: Medium
+
+=== MEDIUM LEVEL CONTINUED ($32,000) ===
+
+16. Question: What is the thermal bridging factor for standard 2x4 wood framing at 16" on center?
+    A) 0.15
+    B) 0.20
+    C) 0.25
+    D) 0.30
+    Answer: C) 0.25
+    Explanation: Wood framing typically reduces overall wall R-value by about 25% due to thermal bridging effects.
+    Category: Insulation & Air Sealing
+    Difficulty: Medium
+
+17. Question: Which moisture control strategy is most effective in hot, humid climates?
+    A) Vapor barriers on the interior
+    B) Vapor barriers on the exterior
+    C) No vapor barriers
+    D) Double vapor barriers
+    Answer: C) No vapor barriers
+    Explanation: Hot, humid climates require assemblies that can dry to both sides, making vapor barriers counterproductive.
+    Category: Moisture Control
+    Difficulty: Medium
+
+18. Question: What is the minimum R-value required for basement walls in Climate Zone 5 under IECC 2021?
+    A) R-10
+    B) R-15
+    C) R-20
+    D) R-25
+    Answer: B) R-15
+    Explanation: IECC 2021 requires minimum R-15 continuous insulation for basement walls in Climate Zone 5.
+    Category: Building Codes & Standards
+    Difficulty: Medium
+
+19. Question: What is the primary advantage of a variable refrigerant flow (VRF) system?
+    A) Lower installation cost
+    B) Simultaneous heating and cooling in different zones
+    C) Uses no electricity
+    D) Works without refrigerant
+    Answer: B) Simultaneous heating and cooling in different zones
+    Explanation: VRF systems can provide heating to some zones while cooling others simultaneously.
+    Category: HVAC Systems
+    Difficulty: Medium
+
+20. Question: Which air sealing material is most appropriate for gaps larger than 1/4 inch?
+    A) Caulk
+    B) Weatherstripping
+    C) Expanding foam
+    D) Tape
+    Answer: C) Expanding foam
+    Explanation: Expanding foam is designed for larger gaps and irregular openings where other sealants won't work effectively.
+    Category: Insulation & Air Sealing
+    Difficulty: Medium
+
+=== HARD LEVEL ($64,000 - $125,000) ===
+
+21. Question: What is the dewpoint temperature when air at 75°F contains 0.012 pounds of moisture per pound of dry air?
+    A) 55°F
+    B) 60°F
+    C) 65°F
+    D) 70°F
+    Answer: B) 60°F
+    Explanation: Using psychrometric calculations, air at 75°F with a humidity ratio of 0.012 lb/lb has a dewpoint of approximately 60°F.
+    Category: HVAC Systems
+    Difficulty: Hard
+
+22. Question: According to RESNET-380, what is the maximum allowable air leakage for a Leakage Class A building enclosure?
+    A) 1.25 ACH50
+    B) 1.50 ACH50
+    C) 2.00 ACH50
+    D) 3.00 ACH50
+    Answer: A) 1.25 ACH50
+    Explanation: RESNET-380 defines Leakage Class A as buildings with air leakage ≤ 1.25 ACH50.
+    Category: Building Codes & Standards
+    Difficulty: Hard
+
+23. Question: What is the vapor permeance threshold that defines a vapor retarder under ASTM E96?
+    A) 0.1 perms
+    B) 1.0 perm
+    C) 10 perms
+    D) 100 perms
+    Answer: B) 1.0 perm
+    Explanation: ASTM E96 defines materials with permeance ≤ 1.0 perm as vapor retarders.
+    Category: Moisture Control
+    Difficulty: Hard
+
+24. Question: In duct design, what is the recommended maximum friction rate for residential systems?
+    A) 0.05 inches of water per 100 feet
+    B) 0.08 inches of water per 100 feet
+    C) 0.10 inches of water per 100 feet
+    D) 0.15 inches of water per 100 feet
+    Answer: B) 0.08 inches of water per 100 feet
+    Explanation: ACCA Manual D recommends maximum friction rates of 0.08" w.c. per 100 feet for optimal efficiency.
+    Category: HVAC Systems
+    Difficulty: Hard
+
+25. Question: What is the solar heat gain coefficient (SHGC) range for high-performance windows in cooling-dominated climates?
+    A) 0.60-0.80
+    B) 0.40-0.60
+    C) 0.25-0.40
+    D) 0.10-0.25
+    Answer: C) 0.25-0.40
+    Explanation: Cooling-dominated climates benefit from low SHGC values (0.25-0.40) to minimize unwanted solar heat gain.
+    Category: Energy Efficiency
+    Difficulty: Hard
+
+=== HARD LEVEL CONTINUED ($250,000) ===
+
+26. Question: What is the minimum outdoor air ventilation rate per person for office buildings according to ASHRAE 62.1-2022?
+    A) 5 CFM per person
+    B) 7.5 CFM per person
+    C) 10 CFM per person
+    D) 15 CFM per person
+    Answer: A) 5 CFM per person
+    Explanation: ASHRAE 62.1-2022 requires minimum 5 CFM per person plus area-based ventilation for office spaces.
+    Category: Ventilation & Indoor Air Quality
+    Difficulty: Hard
+
+27. Question: Under Title 24 2022, what is the maximum U-factor allowed for residential windows in Climate Zone 3?
+    A) 0.28
+    B) 0.30
+    C) 0.32
+    D) 0.35
+    Answer: B) 0.30
+    Explanation: Title 24 2022 sets maximum U-factor of 0.30 for residential windows in California Climate Zone 3.
+    Category: Building Codes & Standards
+    Difficulty: Hard
+
+28. Question: What is the thermal mass benefit factor for 6-inch thick concrete walls in heating-dominated climates?
+    A) 0.85
+    B) 0.90
+    C) 0.95
+    D) 1.00
+    Answer: B) 0.90
+    Explanation: Thermal mass reduces heating loads by approximately 10% (factor of 0.90) for medium-weight construction.
+    Category: Building Materials
+    Difficulty: Hard
+
+29. Question: In ground-source heat pump sizing, what is the typical heating capacity per ton at 32°F entering fluid temperature?
+    A) 10,000 BTU/hr
+    B) 11,000 BTU/hr
+    C) 12,000 BTU/hr
+    D) 13,000 BTU/hr
+    Answer: C) 12,000 BTU/hr
+    Explanation: Ground-source heat pumps typically provide full rated capacity (12,000 BTU/hr per ton) at design conditions.
+    Category: HVAC Systems
+    Difficulty: Hard
+
+30. Question: What is the maximum allowable pressure differential across building enclosures to prevent stack effect issues?
+    A) 2 pascals
+    B) 4 pascals
+    C) 6 pascals
+    D) 8 pascals
+    Answer: B) 4 pascals
+    Explanation: Pressure differentials above 4 pascals can drive significant air leakage and moisture problems.
+    Category: Moisture Control
+    Difficulty: Hard
+
+=== EXPERT LEVEL ($500,000) ===
+
+31. Question: According to the Arrhenius equation, by what factor does the reaction rate of wood decay increase for every 10°C temperature rise?
+    A) 1.5x
+    B) 2x
+    C) 2.5x
+    D) 3x
+    Answer: B) 2x
+    Explanation: The Arrhenius equation shows biological reaction rates approximately double for every 10°C temperature increase.
+    Category: Building Materials
+    Difficulty: Expert
+
+32. Question: What is the critical moisture content percentage for wood decay initiation in most wood species?
+    A) 15%
+    B) 19%
+    C) 23%
+    D) 28%
+    Answer: D) 28%
+    Explanation: Wood decay fungi require moisture content above 28% (fiber saturation point) to become active.
+    Category: Moisture Control
+    Difficulty: Expert
+
+33. Question: In advanced duct design, what is the equivalent length method multiplier for a 90-degree elbow with turning vanes?
+    A) 15
+    B) 20
+    C) 25
+    D) 30
+    Answer: B) 20
+    Explanation: ASHRAE Fundamentals lists 90-degree elbows with turning vanes as having an equivalent length of 20 diameters.
+    Category: HVAC Systems
+    Difficulty: Expert
+
+34. Question: What is the emissivity value of polished aluminum used in radiant barrier calculations?
+    A) 0.03
+    B) 0.05
+    C) 0.10
+    D) 0.15
+    Answer: A) 0.03
+    Explanation: Polished aluminum has an extremely low emissivity of approximately 0.03, making it effective for radiant barriers.
+    Category: Insulation & Air Sealing
+    Difficulty: Expert
+
+35. Question: According to RESNET-310, what is the maximum allowable temperature difference between supply air and ambient air for Grade I duct installation?
+    A) 15°F
+    B) 20°F
+    C) 25°F
+    D) 30°F
+    Answer: C) 25°F
+    Explanation: RESNET-310 Grade I requires supply air temperature within 25°F of ambient air temperature.
+    Category: Building Codes & Standards
+    Difficulty: Expert
+
+=== EXPERT LEVEL ($1,000,000) ===
+
+36. Question: In building physics, what is the Péclet number threshold above which convection dominates over diffusion in moisture transport?
+    A) 1
+    B) 5
+    C) 10
+    D) 100
+    Answer: C) 10
+    Explanation: Péclet numbers above 10 indicate convection-dominated moisture transport, while below 1 indicates diffusion dominance.
+    Category: Moisture Control
+    Difficulty: Expert
+
+37. Question: What is the hygrothermal admittance value for gypsum board at 1 Hz frequency?
+    A) 2.5 × 10^-6 kg/(m²·s·Pa)
+    B) 5.0 × 10^-6 kg/(m²·s·Pa)
+    C) 7.5 × 10^-6 kg/(m²·s·Pa)
+    D) 10.0 × 10^-6 kg/(m²·s·Pa)
+    Answer: C) 7.5 × 10^-6 kg/(m²·s·Pa)
+    Explanation: Hygrothermal admittance quantifies dynamic moisture buffering capacity; gypsum board has high buffering capacity.
+    Category: Building Materials
+    Difficulty: Expert
+
+38. Question: In advanced photovoltaic system design, what is the temperature coefficient of power for crystalline silicon modules?
+    A) -0.35%/°C
+    B) -0.40%/°C
+    C) -0.45%/°C
+    D) -0.50%/°C
+    Answer: C) -0.45%/°C
+    Explanation: Crystalline silicon PV modules typically lose about 0.45% of power output for each degree Celsius above 25°C.
+    Category: Renewable Energy Systems
+    Difficulty: Expert
+
+39. Question: What is the critical Reynolds number for transition from laminar to turbulent flow in circular ducts?
+    A) 2,000
+    B) 2,300
+    C) 3,000
+    D) 4,000
+    Answer: B) 2,300
+    Explanation: The critical Reynolds number of 2,300 marks the transition between laminar and turbulent flow in smooth circular pipes.
+    Category: HVAC Systems
+    Difficulty: Expert
+
+40. Question: In whole-building hygrothermal modeling, what is the sorption isotherm equation parameter 'n' for most building materials?
+    A) 1.2-1.8
+    B) 2.0-3.0
+    C) 3.5-4.5
+    D) 5.0-6.0
+    Answer: A) 1.2-1.8
+    Explanation: The GAB (Guggenheim-Anderson-de Boer) model parameter 'n' typically ranges from 1.2-1.8 for most building materials.
+    Category: Building Materials
+    Difficulty: Expert
+
+=== ADDITIONAL QUESTIONS (41-100) ===
+
+41. Question: What does "SEER" measure in HVAC systems?
+    A) System efficiency energy rating
+    B) Seasonal energy efficiency ratio
+    C) Standard equipment energy rating
+    D) Summer efficiency energy ratio
+    Answer: B) Seasonal energy efficiency ratio
+    Explanation: SEER measures cooling efficiency over a typical cooling season.
+    Category: HVAC Systems
+    Difficulty: Easy
+
+42. Question: Which climate zone covers most of Florida?
+    A) Zone 1A
+    B) Zone 2A
+    C) Zone 3A
+    D) Zone 4A
+    Answer: B) Zone 2A
+    Explanation: Most of Florida is classified as Climate Zone 2A (hot-humid) under IECC.
+    Category: Building Codes & Standards
+    Difficulty: Easy
+
+43. Question: What is the primary purpose of a whole-house fan?
+    A) Air conditioning
+    B) Heating
+    C) Ventilative cooling
+    D) Air filtration
+    Answer: C) Ventilative cooling
+    Explanation: Whole-house fans provide cooling by exhausting hot indoor air and drawing in cooler outdoor air.
+    Category: Ventilation & Indoor Air Quality
+    Difficulty: Easy
+
+44. Question: Which material has the highest thermal conductivity?
+    A) Wood
+    B) Concrete
+    C) Steel
+    D) Insulation
+    Answer: C) Steel
+    Explanation: Steel has very high thermal conductivity, making it a significant thermal bridge in buildings.
+    Category: Building Materials
+    Difficulty: Easy
+
+45. Question: What is the recommended attic insulation level for Climate Zone 4?
+    A) R-30
+    B) R-38
+    C) R-49
+    D) R-60
+    Answer: C) R-49
+    Explanation: DOE recommends R-49 attic insulation for Climate Zone 4 regions.
+    Category: Insulation & Air Sealing
+    Difficulty: Easy
+
+46. Question: What does "CFM" stand for in ventilation systems?
+    A) Cooling fan motor
+    B) Cubic feet per minute
+    C) Certified fan manufacturer
+    D) Controlled flow mechanism
+    Answer: B) Cubic feet per minute
+    Explanation: CFM measures airflow rate in cubic feet per minute.
+    Category: Ventilation & Indoor Air Quality
+    Difficulty: Easy
+
+47. Question: Which window type typically has the best energy performance?
+    A) Single-pane
+    B) Double-pane
+    C) Triple-pane
+    D) Quadruple-pane
+    Answer: C) Triple-pane
+    Explanation: Triple-pane windows offer the best balance of performance and cost for most climates.
+    Category: Energy Efficiency
+    Difficulty: Easy
+
+48. Question: What is the primary benefit of LED lighting over incandescent?
+    A) Better color rendering
+    B) Lower cost
+    C) Energy efficiency
+    D) Easier dimming
+    Answer: C) Energy efficiency
+    Explanation: LEDs use about 75% less energy than incandescent bulbs.
+    Category: Energy Efficiency
+    Difficulty: Easy
+
+49. Question: Which type of water heater typically has the highest energy factor?
+    A) Electric resistance
+    B) Gas storage
+    C) Heat pump water heater
+    D) Tankless gas
+    Answer: C) Heat pump water heater
+    Explanation: Heat pump water heaters can achieve energy factors of 2.0 or higher.
+    Category: Energy Efficiency
+    Difficulty: Easy
+
+50. Question: What is the main cause of callback issues in HVAC installations?
+    A) Equipment defects
+    B) Poor commissioning
+    C) High utility costs
+    D) Warranty problems
+    Answer: B) Poor commissioning
+    Explanation: Most HVAC performance issues stem from inadequate testing and commissioning during installation.
+    Category: HVAC Systems
+    Difficulty: Easy
+
+51. Question: What is the standard test pressure for residential duct leakage testing?
+    A) 15 pascals
+    B) 25 pascals
+    C) 50 pascals
+    D) 75 pascals
+    Answer: B) 25 pascals
+    Explanation: Duct leakage is typically measured at 25 pascals pressure difference.
+    Category: Building Codes & Standards
+    Difficulty: Medium
+
+52. Question: Which insulation type is most susceptible to convective loops?
+    A) Spray foam
+    B) Rigid foam
+    C) Fiberglass batts
+    D) Cellulose
+    Answer: C) Fiberglass batts
+    Explanation: Loose-fill fiberglass and poorly installed batts can develop convective air currents that reduce performance.
+    Category: Insulation & Air Sealing
+    Difficulty: Medium
+
+53. Question: What is the recommended approach temperature for cooling towers?
+    A) 5°F
+    B) 7°F
+    C) 10°F
+    D) 15°F
+    Answer: B) 7°F
+    Explanation: Cooling towers typically operate with a 7°F approach temperature to wet bulb.
+    Category: HVAC Systems
+    Difficulty: Medium
+
+54. Question: Which building envelope component requires continuous inspection during construction?
+    A) Insulation installation
+    B) Air barrier continuity
+    C) Window installation
+    D) All of the above
+    Answer: D) All of the above
+    Explanation: All envelope components require careful inspection to ensure proper performance.
+    Category: Building Codes & Standards
+    Difficulty: Medium
+
+55. Question: What is the primary mechanism of heat transfer through windows?
+    A) Conduction
+    B) Convection
+    C) Radiation
+    D) All three
+    Answer: D) All three
+    Explanation: Windows transfer heat through conduction (frame/glass), convection (air movement), and radiation (solar/thermal).
+    Category: Energy Efficiency
+    Difficulty: Medium
+
+56. Question: Which ventilation strategy is most energy efficient in mixed climates?
+    A) Exhaust-only
+    B) Supply-only
+    C) Balanced with heat recovery
+    D) Natural ventilation only
+    Answer: C) Balanced with heat recovery
+    Explanation: Heat recovery ventilators provide fresh air while minimizing energy penalties.
+    Category: Ventilation & Indoor Air Quality
+    Difficulty: Medium
+
+57. Question: What is the typical infiltration rate for a well-sealed home?
+    A) 0.25 ACH natural
+    B) 0.35 ACH natural
+    C) 0.50 ACH natural
+    D) 1.0 ACH natural
+    Answer: A) 0.25 ACH natural
+    Explanation: Well-sealed homes typically achieve natural infiltration rates around 0.25 ACH.
+    Category: Insulation & Air Sealing
+    Difficulty: Medium
+
+58. Question: Which moisture source typically contributes most to indoor humidity?
+    A) Cooking
+    B) Showering
+    C) Breathing/perspiration
+    D) Houseplants
+    Answer: B) Showering
+    Explanation: Showering can generate 0.5+ pounds of moisture in 10 minutes.
+    Category: Moisture Control
+    Difficulty: Medium
+
+59. Question: What is the minimum efficiency reporting value (MERV) recommended for residential HVAC filters?
+    A) MERV 6
+    B) MERV 8
+    C) MERV 11
+    D) MERV 13
+    Answer: B) MERV 8
+    Explanation: MERV 8 filters provide good particle removal without excessive pressure drop.
+    Category: Ventilation & Indoor Air Quality
+    Difficulty: Medium
+
+60. Question: Which radiant floor heating system has the fastest response time?
+    A) Concrete slab systems
+    B) Thin-slab systems
+    C) Above-floor systems
+    D) All have similar response
+    Answer: C) Above-floor systems
+    Explanation: Above-floor systems with minimal thermal mass have the quickest response to thermostat changes.
+    Category: HVAC Systems
+    Difficulty: Medium
+
+61. Question: What is the glazing factor used in Manual J load calculations for standard double-pane windows?
+    A) 0.77
+    B) 0.83
+    C) 0.90
+    D) 1.00
+    Answer: B) 0.83
+    Explanation: ACCA Manual J uses 0.83 as the standard glazing factor for double-pane windows.
+    Category: HVAC Systems
+    Difficulty: Hard
+
+62. Question: According to ASHRAE 55-2020, what is the maximum allowable air velocity in the occupied zone?
+    A) 40 fpm
+    B) 50 fpm
+    C) 60 fpm
+    D) 80 fpm
+    Answer: A) 40 fpm
+    Explanation: ASHRAE 55 limits air velocities to 40 fpm in occupied zones to prevent drafts.
+    Category: Ventilation & Indoor Air Quality
+    Difficulty: Hard
+
+63. Question: What is the capillary break requirement under concrete slabs per building codes?
+    A) 2 inches of gravel
+    B) 4 inches of gravel
+    C) 6 inches of gravel
+    D) No requirement
+    Answer: B) 4 inches of gravel
+    Explanation: Most codes require minimum 4 inches of aggregate capillary break under slabs.
+    Category: Moisture Control
+    Difficulty: Hard
+
+64. Question: In ground-coupled heat exchanger design, what is the typical thermal diffusivity of soil?
+    A) 0.025 ft²/hr
+    B) 0.035 ft²/hr
+    C) 0.045 ft²/hr
+    D) 0.055 ft²/hr
+    Answer: B) 0.035 ft²/hr
+    Explanation: Typical soil thermal diffusivity is around 0.035 ft²/hr for design calculations.
+    Category: HVAC Systems
+    Difficulty: Hard
+
+65. Question: What is the solar reflectance index (SRI) requirement for ENERGY STAR cool roofs?
+    A) 25
+    B) 29
+    C) 33
+    D) 39
+    Answer: B) 29
+    Explanation: ENERGY STAR requires minimum SRI of 29 for steep-slope cool roof products.
+    Category: Energy Efficiency
+    Difficulty: Hard
+
+66. Question: Which factor most significantly affects the performance of evacuated tube solar collectors?
+    A) Ambient temperature
+    B) Wind speed
+    C) Angle of incidence
+    D) Collector tilt
+    Answer: C) Angle of incidence
+    Explanation: Evacuated tubes are most sensitive to the angle at which solar radiation strikes the collector.
+    Category: Renewable Energy Systems
+    Difficulty: Hard
+
+67. Question: What is the minimum continuous insulation requirement for mass walls in Climate Zone 6?
+    A) R-7.5
+    B) R-11.4
+    C) R-15.2
+    D) R-19.5
+    Answer: B) R-11.4
+    Explanation: IECC requires R-11.4 continuous insulation for mass walls in Climate Zone 6.
+    Category: Building Codes & Standards
+    Difficulty: Hard
+
+68. Question: In hygrothermal analysis, what moisture content level indicates risk of mold growth?
+    A) 16%
+    B) 18%
+    C) 20%
+    D) 22%
+    Answer: C) 20%
+    Explanation: Moisture content above 20% in organic materials creates conditions favorable for mold growth.
+    Category: Moisture Control
+    Difficulty: Hard
+
+69. Question: What is the coefficient of performance (COP) for a typical air-source heat pump at 47°F outdoor temperature?
+    A) 2.5
+    B) 3.2
+    C) 3.8
+    D) 4.1
+    Answer: C) 3.8
+    Explanation: Modern air-source heat pumps achieve COP around 3.8 at AHRI rating conditions (47°F outdoor).
+    Category: HVAC Systems
+    Difficulty: Hard
+
+70. Question: Which air barrier material has the lowest air permeability?
+    A) Polyethylene sheeting
+    B) Liquid-applied membranes
+    C) Self-adhered membranes
+    D) Spray foam insulation
+    Answer: D) Spray foam insulation
+    Explanation: Closed-cell spray foam has essentially zero air permeability when properly applied.
+    Category: Insulation & Air Sealing
+    Difficulty: Hard
+
+71. Question: According to advanced building physics, what is the critical Rayleigh number for onset of natural convection in vertical cavities?
+    A) 1,700
+    B) 2,000
+    C) 2,500
+    D) 3,000
+    Answer: A) 1,700
+    Explanation: Natural convection begins in vertical cavities when the Rayleigh number exceeds approximately 1,700.
+    Category: Building Materials
+    Difficulty: Expert
+
+72. Question: What is the hygric effusivity of gypsum board used in moisture buffering calculations?
+    A) 0.0008 kg/(m²·s^0.5·Pa)
+    B) 0.0012 kg/(m²·s^0.5·Pa)
+    C) 0.0016 kg/(m²·s^0.5·Pa)
+    D) 0.0020 kg/(m²·s^0.5·Pa)
+    Answer: B) 0.0012 kg/(m²·s^0.5·Pa)
+    Explanation: Hygric effusivity quantifies a material's ability to absorb/release moisture quickly during humidity fluctuations.
+    Category: Moisture Control
+    Difficulty: Expert
+
+73. Question: In photovoltaic system modeling, what is the ideality factor for crystalline silicon cells?
+    A) 1.0
+    B) 1.2
+    C) 1.5
+    D) 2.0
+    Answer: B) 1.2
+    Explanation: The diode ideality factor for crystalline silicon PV cells is typically around 1.2 in practical applications.
+    Category: Renewable Energy Systems
+    Difficulty: Expert
+
+74. Question: What is the Biot number threshold below which lumped capacitance analysis is valid for thermal modeling?
+    A) 0.05
+    B) 0.1
+    C) 0.2
+    D) 0.5
+    Answer: B) 0.1
+    Explanation: Lumped capacitance analysis is accurate when the Biot number is less than 0.1.
+    Category: Building Materials
+    Difficulty: Expert
+
+75. Question: In advanced HVAC design, what is the specific fan power limit for VAV systems under ASHRAE 90.1?
+    A) 1.12 W/CFM
+    B) 1.25 W/CFM
+    C) 1.38 W/CFM
+    D) 1.50 W/CFM
+    Answer: A) 1.12 W/CFM
+    Explanation: ASHRAE 90.1 limits specific fan power to 1.12 W/CFM for VAV systems to ensure efficient operation.
+    Category: HVAC Systems
+    Difficulty: Expert
+
+76. Question: What is the water vapor permeability of 6-mil polyethylene sheeting?
+    A) 0.03 perms
+    B) 0.06 perms
+    C) 0.10 perms
+    D) 0.16 perms
+    Answer: B) 0.06 perms
+    Explanation: 6-mil polyethylene has very low water vapor permeability of approximately 0.06 perms.
+    Category: Moisture Control
+    Difficulty: Expert
+
+77. Question: In ground-source heat pump design, what is the thermal conductivity of typical soil used for sizing calculations?
+    A) 0.75 Btu/hr·ft·°F
+    B) 1.00 Btu/hr·ft·°F
+    C) 1.25 Btu/hr·ft·°F
+    D) 1.50 Btu/hr·ft·°F
+    Answer: A) 0.75 Btu/hr·ft·°F
+    Explanation: Design calculations typically assume soil thermal conductivity of 0.75 Btu/hr·ft·°F for conservative sizing.
+    Category: HVAC Systems
+    Difficulty: Expert
+
+78. Question: What is the sorption isotherm inflection point for most hygroscopic building materials?
+    A) 45% RH
+    B) 55% RH
+    C) 65% RH
+    D) 75% RH
+    Answer: D) 75% RH
+    Explanation: Most building materials show rapid moisture uptake increases above 75% relative humidity.
+    Category: Building Materials
+    Difficulty: Expert
+
+79. Question: In computational fluid dynamics modeling of buildings, what y+ value range is recommended for accurate wall heat transfer?
+    A) y+ < 1
+    B) y+ = 1-5
+    C) y+ = 5-30
+    D) y+ > 30
+    Answer: A) y+ < 1
+    Explanation: Accurate wall heat transfer requires y+ values less than 1 to properly resolve the viscous sublayer.
+    Category: HVAC Systems
+    Difficulty: Expert
+
+80. Question: What is the maximum allowable moisture content in lumber for dry service conditions?
+    A) 15%
+    B) 19%
+    C) 23%
+    D) 28%
+    Answer: B) 19%
+    Explanation: Building codes require lumber for dry service conditions to have maximum 19% moisture content.
+    Category: Building Materials
+    Difficulty: Expert
+
+81. Question: What does "HSPF" measure?
+    A) Heat source performance factor
+    B) Heating seasonal performance factor
+    C) High static pressure factor
+    D) House sensible performance factor
+    Answer: B) Heating seasonal performance factor
+    Explanation: HSPF measures heating efficiency of heat pumps over a typical heating season.
+    Category: HVAC Systems
+    Difficulty: Easy
+
+82. Question: Which color roof reflects the most solar radiation?
+    A) Black
+    B) Gray
+    C) White
+    D) Green
+    Answer: C) White
+    Explanation: White surfaces reflect the most solar radiation, reducing cooling loads.
+    Category: Energy Efficiency
+    Difficulty: Easy
+
+83. Question: What is the primary purpose of flashing?
+    A) Structural support
+    B) Water shedding
+    C) Thermal insulation
+    D) Air sealing
+    Answer: B) Water shedding
+    Explanation: Flashing directs water away from building penetrations and joints.
+    Category: Moisture Control
+    Difficulty: Easy
+
+84. Question: Which refrigerant is most commonly used in residential air conditioners today?
+    A) R-22
+    B) R-410A
+    C) R-134a
+    D) R-32
+    Answer: B) R-410A
+    Explanation: R-410A is the standard refrigerant for most residential AC systems.
+    Category: HVAC Systems
+    Difficulty: Easy
+
+85. Question: What is the purpose of a damper in HVAC systems?
+    A) Reduce noise
+    B) Control airflow
+    C) Filter air
+    D) Heat air
+    Answer: B) Control airflow
+    Explanation: Dampers regulate airflow in ducts and air handling equipment.
+    Category: HVAC Systems
+    Difficulty: Easy
+
+86. Question: Which window orientation receives the least solar heat gain in summer?
+    A) North
+    B) South
+    C) East
+    D) West
+    Answer: A) North
+    Explanation: North-facing windows receive minimal direct solar radiation during summer months.
+    Category: Energy Efficiency
+    Difficulty: Easy
+
+87. Question: What does "EER" stand for in HVAC terminology?
+    A) Energy efficiency rating
+    B) Equipment efficiency ratio
+    C) Energy efficiency ratio
+    D) Electrical efficiency rating
+    Answer: C) Energy efficiency ratio
+    Explanation: EER measures cooling efficiency at specific outdoor conditions.
+    Category: HVAC Systems
+    Difficulty: Easy
+
+88. Question: Which insulation installation grade is considered acceptable under RESNET standards?
+    A) Grade I only
+    B) Grade I and II only
+    C) All grades acceptable
+    D) Depends on climate zone
+    Answer: B) Grade I and II only
+    Explanation: RESNET standards require Grade I or Grade II installation quality for rated performance.
+    Category: Insulation & Air Sealing
+    Difficulty: Easy
+
+89. Question: What is the recommended filter change frequency for standard 1-inch HVAC filters?
+    A) Monthly
+    B) Quarterly
+    C) Bi-annually
+    D) Annually
+    Answer: A) Monthly
+    Explanation: Standard 1-inch filters should be changed monthly for optimal performance.
+    Category: Ventilation & Indoor Air Quality
+    Difficulty: Easy
+
+90. Question: Which building component typically accounts for the highest percentage of air leakage?
+    A) Windows
+    B) Doors
+    C) Ceiling penetrations
+    D) Wall penetrations
+    Answer: C) Ceiling penetrations
+    Explanation: Penetrations through the ceiling/attic boundary are often the largest source of air leakage.
+    Category: Insulation & Air Sealing
+    Difficulty: Easy
+
+91. Question: What is the supply air temperature rise across a typical gas furnace heat exchanger?
+    A) 20-40°F
+    B) 40-70°F
+    C) 70-100°F
+    D) 100-130°F
+    Answer: B) 40-70°F
+    Explanation: Gas furnaces typically raise supply air temperature 40-70°F above return air temperature.
+    Category: HVAC Systems
+    Difficulty: Medium
+
+92. Question: Which duct sealing method is most effective for accessible ductwork?
+    A) Duct tape
+    B) Mastic sealant
+    C) Aeroseal injection
+    D) Metal tape
+    Answer: B) Mastic sealant
+    Explanation: Mastic sealant provides the most durable and effective seal for accessible duct joints.
+    Category: Insulation & Air Sealing
+    Difficulty: Medium
+
+93. Question: What is the typical design temperature difference for residential air conditioning systems?
+    A) 15°F
+    B) 20°F
+    C) 25°F
+    D) 30°F
+    Answer: B) 20°F
+    Explanation: Residential AC systems are typically designed for 20°F temperature difference between supply and return air.
+    Category: HVAC Systems
+    Difficulty: Medium
+
+94. Question: Which moisture management strategy is most important in hot-humid climates?
+    A) Vapor barriers
+    B) Dehumidification
+    C) Increased ventilation
+    D) Thermal mass
+    Answer: B) Dehumidification
+    Explanation: Mechanical dehumidification is essential for comfort and moisture control in hot-humid climates.
+    Category: Moisture Control
+    Difficulty: Medium
+
+95. Question: What is the recommended maximum static pressure for residential duct systems?
+    A) 0.3 inches water column
+    B) 0.5 inches water column
+    C) 0.8 inches water column
+    D) 1.0 inches water column
+    Answer: B) 0.5 inches water column
+    Explanation: ACCA Manual D recommends maximum 0.5 inches w.c. total external static pressure.
+    Category: HVAC Systems
+    Difficulty: Medium
+
+96. Question: Which insulation strategy is most effective for reducing thermal bridging in steel framing?
+    A) Cavity insulation only
+    B) Continuous exterior insulation
+    C) Continuous interior insulation
+    D) Double wall construction
+    Answer: B) Continuous exterior insulation
+    Explanation: Continuous exterior insulation effectively breaks thermal bridges through steel framing.
+    Category: Insulation & Air Sealing
+    Difficulty: Medium
+
+97. Question: What is the minimum net-to-gross floor area ratio for ENERGY STAR homes?
+    A) 5%
+    B) 7%
+    C) 9%
+    D) 12%
+    Answer: B) 7%
+    Explanation: ENERGY STAR requires minimum 7% net-to-gross floor area ratio to encourage efficient building design.
+    Category: Energy Efficiency
+    Difficulty: Medium
+
+98. Question: Which ventilation system component is most critical for maintaining design airflow?
+    A) Ductwork sizing
+    B) Filter selection
+    C) Fan selection
+    D) Control settings
+    Answer: A) Ductwork sizing
+    Explanation: Proper duct sizing is fundamental to achieving design airflow rates in ventilation systems.
+    Category: Ventilation & Indoor Air Quality
+    Difficulty: Medium
+
+99. Question: What is the thermal boundary continuity requirement for high-performance building enclosures?
+    A) 80% continuous
+    B) 90% continuous
+    C) 95% continuous
+    D) 100% continuous
+    Answer: D) 100% continuous
+    Explanation: High-performance enclosures require complete thermal boundary continuity to minimize heat transfer.
+    Category: Insulation & Air Sealing
+    Difficulty: Medium
+
+100. Question: Which building orientation provides the best balance of solar heat gain and daylighting?
+     A) North-south axis with long sides facing east-west
+     B) East-west axis with long sides facing north-south
+     C) 45-degree rotation from cardinal directions
+     D) Orientation doesn't significantly matter
+     Answer: B) East-west axis with long sides facing north-south
+     Explanation: North-south facing walls provide optimal seasonal solar control and consistent daylighting opportunities.
+     Category: Energy Efficiency
+     Difficulty: Medium

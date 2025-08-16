@@ -1,0 +1,1217 @@
+{
+  "gameShow": "Building Science Millionaire",
+  "host": "Regis-Style Building Science Host",
+  "prizeStructure": {
+    "level1": { "amount": "$100", "difficulty": "Easy Foundation" },
+    "level2": { "amount": "$200", "difficulty": "Easy Foundation" },
+    "level3": { "amount": "$300", "difficulty": "Easy Foundation" },
+    "level4": { "amount": "$500", "difficulty": "Easy Foundation" },
+    "level5": { "amount": "$1,000", "difficulty": "Easy Foundation" },
+    "level6": { "amount": "$2,000", "difficulty": "Building Confidence" },
+    "level7": { "amount": "$4,000", "difficulty": "Building Confidence" },
+    "level8": { "amount": "$8,000", "difficulty": "Building Confidence" },
+    "level9": { "amount": "$16,000", "difficulty": "Building Confidence" },
+    "level10": { "amount": "$32,000", "difficulty": "Building Confidence" },
+    "level11": { "amount": "$64,000", "difficulty": "High Stakes Drama" },
+    "level12": { "amount": "$125,000", "difficulty": "High Stakes Drama" },
+    "level13": { "amount": "$250,000", "difficulty": "High Stakes Drama" },
+    "level14": { "amount": "$500,000", "difficulty": "Maximum Suspense" },
+    "level15": { "amount": "$1,000,000", "difficulty": "Ultimate Challenge" }
+  },
+  "commentaryTemplates": {
+    "easyFoundation": {
+      "questionIntros": [
+        "Alright, let's start building your knowledge foundation! For ${amount}, here's a nice warm-up question...",
+        "Welcome to the construction site! For your first ${amount}, this should be as easy as laying the cornerstone...",
+        "Time to break ground! For ${amount}, every good builder needs to know this one...",
+        "Let's pour that foundation! For ${amount}, here's something every construction professional should know...",
+        "Starting strong! For ${amount}, this is Building Science 101..."
+      ],
+      "correctResponses": [
+        "THAT'S RIGHT! Fantastic start! You know, that's exactly the kind of fundamental knowledge that separates the pros from the amateurs!",
+        "YES! Beautiful answer! You're building on solid ground here - literally and figuratively!",
+        "Perfect! You nailed it! That foundation knowledge is going to serve you well as we climb higher!",
+        "Excellent! You're off to a TERRIFIC start! I can tell you've got the building blocks down pat!",
+        "Outstanding! Right on the money! You're constructing a wonderful game here!"
+      ],
+      "wrongResponses": [
+        "Ooh, not quite! But hey, even the best contractors need to double-check their blueprints sometimes! The correct answer was [ANSWER]. Here's why: [EXPLANATION]",
+        "Not this time! But don't worry - every master builder started with the basics! The right answer was [ANSWER], and [EXPLANATION]",
+        "Close, but no foundation permit! The correct answer was [ANSWER]. Remember: [EXPLANATION]",
+        "Ah, that's not it! But you know what? Even Frank Lloyd Wright had to learn the fundamentals! The answer was [ANSWER] because [EXPLANATION]",
+        "Not quite right! But that's okay - we're all here to learn! The correct answer was [ANSWER], and here's the scoop: [EXPLANATION]"
+      ],
+      "phoneAFriendHints": [
+        "Well, your expert friend says: 'Think about the most basic principle here - what would any first-year construction student know?'",
+        "Your building science buddy whispers: 'Remember the fundamentals - this is something you'd find in any introductory textbook!'",
+        "Your contractor friend suggests: 'Go with your gut on this one - it's probably simpler than you think!'",
+        "Your expert says: 'This is bread-and-butter building science - think about what every professional deals with daily!'"
+      ]
+    },
+    "buildingConfidence": {
+      "questionIntros": [
+        "Now we're getting somewhere! For ${amount}, let's see if your building science knowledge can support some real weight...",
+        "The stakes are rising like a well-engineered structure! For ${amount}, this question requires some solid expertise...",
+        "We're moving up to the second floor of difficulty! For ${amount}, time to show me what you REALLY know...",
+        "Things are getting interesting! For ${amount}, this is where we separate the apprentices from the journeymen...",
+        "The foundation is set, now let's build! For ${amount}, here's a question that'll test your structural knowledge..."
+      ],
+      "correctResponses": [
+        "YES! TREMENDOUS! You're building this game like a master craftsman - methodical, precise, and absolutely RIGHT!",
+        "FANTASTIC! You just engineered a perfect answer! Your knowledge is as solid as reinforced concrete!",
+        "BRILLIANT! You're constructing a beautiful winning streak here! That expertise is really showing!",
+        "OUTSTANDING! You handled that like a true professional! Your building science foundation is ROCK solid!",
+        "MAGNIFICENT! You're rising through these levels like a perfectly designed skyscraper - strong and steady!"
+      ],
+      "wrongResponses": [
+        "Ooh, that's not it! But hey, even experienced contractors sometimes need to consult the code book! The correct answer was [ANSWER]. Here's the technical breakdown: [EXPLANATION]",
+        "Not quite right! But you know what? This is exactly the kind of question that separates good builders from great ones! The answer was [ANSWER] because [EXPLANATION]",
+        "That's not correct, but don't let it shake your foundation! The right answer was [ANSWER], and here's why this matters: [EXPLANATION]",
+        "Close, but the building inspector wouldn't sign off on that one! The correct answer was [ANSWER]. Let me explain: [EXPLANATION]",
+        "Not this time! But hey, even the best architects need to revise their plans sometimes! The answer was [ANSWER], and [EXPLANATION]"
+      ],
+      "phoneAFriendHints": [
+        "Your expert friend says: 'This is intermediate level stuff - think about the practical applications you'd see on a real job site.'",
+        "Your building science buddy advises: 'Consider the code requirements and industry standards for this situation.'",
+        "Your structural engineer friend suggests: 'Think about the physics involved - what forces or factors are at play here?'",
+        "Your expert whispers: 'This is the kind of question that comes up in professional certification exams - use your technical knowledge!'"
+      ]
+    },
+    "highStakesDrama": {
+      "questionIntros": [
+        "Ladies and gentlemen... we have reached the SERIOUS construction zone! For ${amount}... this is where legends are built! Are you ready for this architectural challenge?",
+        "OH MY GOODNESS! We're talking ${amount} now! This is big league building science! Take your time... feel the pressure... this is where dreams are made!",
+        "Hold onto your hard hats, folks! For a MASSIVE ${amount}... we're entering the realm of master builders! This question... could change EVERYTHING!",
+        "WOW! ${amount} is sitting right there in front of you! But standing between you and that money is one SERIOUS building science question! Are you feeling confident?",
+        "The tension is BUILDING! For ${amount}... this is the kind of question that doctoral students in building science lose sleep over! Ready to tackle this beast?"
+      ],
+      "correctResponses": [
+        "YESSSSS! OH MY GOODNESS, YES! You just constructed the PERFECT answer! That was absolutely BRILLIANT! You're not just building a game here - you're building a LEGACY!",
+        "INCREDIBLE! ABSOLUTELY INCREDIBLE! You handled that monster question like a true master of building science! Your expertise just earned you ${amount}!",
+        "OUTSTANDING! That was a PhD-level answer delivered with the confidence of a master builder! You are ON FIRE tonight!",
+        "MAGNIFICENT! You just demolished that question and rebuilt it perfectly! That kind of expertise doesn't come from textbooks - that's REAL knowledge!",
+        "SPECTACULAR! You engineered that answer like designing the perfect building - every detail calculated, every component in place! BRAVO!"
+      ],
+      "wrongResponses": [
+        "Ohhhhh no! OH NO! I can see it in your face - you KNEW that was tricky! The correct answer was [ANSWER]. But hey, that was a TOUGH one! Here's what makes this so complex: [EXPLANATION]",
+        "Ah, that's not it! But you know what? You just tackled one of the most challenging concepts in building science! The right answer was [ANSWER], and here's why this trips up even the experts: [EXPLANATION]",
+        "Not this time! But listen - the fact that you made it this far shows you have SERIOUS building science chops! The answer was [ANSWER], and [EXPLANATION]",
+        "That's incorrect, but WOW - what a valiant effort on a truly difficult question! The correct answer was [ANSWER]. This is graduate-level stuff: [EXPLANATION]",
+        "Not quite right! But you've already proven you're operating at a master craftsman level! The answer was [ANSWER], and here's the advanced theory behind it: [EXPLANATION]"
+      ],
+      "phoneAFriendHints": [
+        "Your expert friend takes a deep breath: 'This is advanced stuff. Think about cutting-edge building science research and emerging technologies.'",
+        "Your building science professor says: 'This requires deep theoretical knowledge. Consider the most sophisticated aspects of building performance.'",
+        "Your expert whispers urgently: 'This is doctoral dissertation territory. Think about the intersection of multiple building science disciplines.'",
+        "Your friend says carefully: 'This is the kind of question that stumps seasoned professionals. Trust your highest-level training.'"
+      ]
+    },
+    "maximumSuspense": {
+      "questionIntros": [
+        "Ladies and gentlemen... we have arrived at the ULTIMATE construction challenge! For HALF A MILLION DOLLARS... this question represents the absolute pinnacle of building science expertise! Take all the time you need... breathe... this is YOUR moment!",
+        "OH... MY... GOODNESS! We're talking about ONE MILLION DOLLARS! This final question... this is the Everest of building science! Everything you've learned, everything you know, has led to this moment! Are you ready to become a BUILDONAIRE?"
+      ],
+      "correctResponses": [
+        "YESSSSSSSS! OH MY STARS! YOU DID IT! YOU ABSOLUTELY DID IT! You just answered the most challenging building science question I've ever seen! You are now a HALF-MILLION-DOLLAR winner and a TRUE master of building science!",
+        "INCREDIBLE! ABSOLUTELY INCREDIBLE! YOU ARE A MILLIONAIRE! A BUILDING SCIENCE MILLIONAIRE! That was the most spectacular display of expertise I have EVER witnessed! You didn't just win money - you proved you're among the world's elite building science professionals!"
+      ],
+      "wrongResponses": [
+        "Ohhhhh... oh no! I can see the disappointment! But listen to me - you made it to the ULTIMATE level! You should be SO proud! The correct answer was [ANSWER]. This represents the absolute cutting edge of building science: [EXPLANATION]",
+        "Not quite right... but WOW! What an INCREDIBLE journey you've taken us on! You've demonstrated world-class expertise! The answer was [ANSWER], and this represents the most advanced thinking in our field: [EXPLANATION]"
+      ],
+      "phoneAFriendHints": [
+        "Your expert friend's voice is tense: 'This is it. This is the question only the world's top building science researchers could confidently answer. Think about the absolute forefront of the field.'",
+        "Your expert barely whispers: 'This is Nobel Prize territory in building science. Consider the most revolutionary concepts that are reshaping how we think about buildings.'"
+      ]
+    }
+  },
+  "questions": [
+    {
+      "id": 1,
+      "level": 1,
+      "amount": "$100",
+      "category": "Foundation Knowledge",
+      "question": "What does 'R-value' measure in building insulation?",
+      "options": [
+        "A) Resistance to heat flow",
+        "B) Rate of air leakage", 
+        "C) Rigidity of the material",
+        "D) Reflectance of sunlight"
+      ],
+      "correct": "A",
+      "explanation": "R-value measures thermal resistance - how well a material resists heat flow. The higher the R-value, the better the insulation performance!"
+    },
+    {
+      "id": 2,
+      "level": 1,
+      "amount": "$100",
+      "category": "Foundation Knowledge",
+      "question": "Which building component is primarily responsible for keeping water out of a structure?",
+      "options": [
+        "A) Vapor barrier",
+        "B) Building envelope",
+        "C) Thermal bridge",
+        "D) Air barrier"
+      ],
+      "correct": "B",
+      "explanation": "The building envelope - including walls, roof, windows, and doors - is your first line of defense against water intrusion!"
+    },
+    {
+      "id": 3,
+      "level": 1,
+      "amount": "$100",
+      "category": "Foundation Knowledge", 
+      "question": "What does HVAC stand for?",
+      "options": [
+        "A) High Velocity Air Conditioning",
+        "B) Heating, Ventilation, and Air Conditioning",
+        "C) Home Ventilation and Climate",
+        "D) Hot Vapor Air Control"
+      ],
+      "correct": "B",
+      "explanation": "HVAC - Heating, Ventilation, and Air Conditioning - the holy trinity of indoor comfort!"
+    },
+    {
+      "id": 4,
+      "level": 1,
+      "amount": "$100",
+      "category": "Foundation Knowledge",
+      "question": "Which direction should a house face to maximize passive solar heating in the Northern Hemisphere?",
+      "options": [
+        "A) North",
+        "B) South", 
+        "C) East",
+        "D) West"
+      ],
+      "correct": "B",
+      "explanation": "South-facing orientation captures the most winter sun for passive heating - it's like giving your house a natural furnace!"
+    },
+    {
+      "id": 5,
+      "level": 1,
+      "amount": "$100",
+      "category": "Foundation Knowledge",
+      "question": "What is the most common cause of building moisture problems?",
+      "options": [
+        "A) Poor insulation",
+        "B) Air leaks",
+        "C) High humidity",
+        "D) Inadequate ventilation"
+      ],
+      "correct": "B",
+      "explanation": "Air leaks are the sneaky culprits! They carry moisture into walls and create all sorts of problems - seal those gaps!"
+    },
+    {
+      "id": 6,
+      "level": 2,
+      "amount": "$200",
+      "category": "Foundation Knowledge",
+      "question": "What does 'thermal bridging' refer to in building construction?",
+      "options": [
+        "A) Connecting two heated spaces",
+        "B) A path for heat to bypass insulation",
+        "C) A method of radiant heating",
+        "D) Temperature control between floors"
+      ],
+      "correct": "B",
+      "explanation": "Thermal bridging is like a highway for heat - it creates a path through your insulation that lets energy escape!"
+    },
+    {
+      "id": 7,
+      "level": 2,
+      "amount": "$200", 
+      "category": "Foundation Knowledge",
+      "question": "Which type of foundation is best for areas with expansive clay soils?",
+      "options": [
+        "A) Slab-on-grade",
+        "B) Crawl space",
+        "C) Pier and beam",
+        "D) Full basement"
+      ],
+      "correct": "C",
+      "explanation": "Pier and beam foundations ride above the troublesome clay - they move with the soil instead of fighting it!"
+    },
+    {
+      "id": 8,
+      "level": 2,
+      "amount": "$200",
+      "category": "Foundation Knowledge",
+      "question": "What is the primary purpose of a vapor barrier in wall construction?",
+      "options": [
+        "A) Prevent air infiltration",
+        "B) Control moisture diffusion",
+        "C) Provide structural support", 
+        "D) Improve thermal performance"
+      ],
+      "correct": "B",
+      "explanation": "Vapor barriers control moisture diffusion - they're like a raincoat for your wall assembly!"
+    },
+    {
+      "id": 9,
+      "level": 2,
+      "amount": "$200",
+      "category": "Foundation Knowledge",
+      "question": "Which window orientation typically requires the most shading in summer?",
+      "options": [
+        "A) North",
+        "B) South",
+        "C) East",
+        "D) West"
+      ],
+      "correct": "D",
+      "explanation": "West-facing windows get that brutal afternoon sun - they need serious shading to prevent overheating!"
+    },
+    {
+      "id": 10,
+      "level": 2,
+      "amount": "$200",
+      "category": "Foundation Knowledge",
+      "question": "What does 'stack effect' describe in building science?",
+      "options": [
+        "A) Structural load distribution",
+        "B) Natural air movement due to temperature differences",
+        "C) Layering of building materials",
+        "D) Accumulation of building components"
+      ],
+      "correct": "B",
+      "explanation": "Stack effect is nature's ventilation system - warm air rises and creates natural air movement in buildings!"
+    },
+    {
+      "id": 11,
+      "level": 3,
+      "amount": "$300",
+      "category": "Foundation Knowledge",
+      "question": "Which type of insulation is most effective at stopping air leakage?",
+      "options": [
+        "A) Fiberglass batts",
+        "B) Cellulose",
+        "C) Spray foam",
+        "D) Rigid foam boards"
+      ],
+      "correct": "C",
+      "explanation": "Spray foam is the champion of air sealing - it expands to fill every crack and crevice!"
+    },
+    {
+      "id": 12,
+      "level": 3,
+      "amount": "$300",
+      "category": "Foundation Knowledge", 
+      "question": "What is the recommended minimum ventilation rate for a typical residential bathroom?",
+      "options": [
+        "A) 25 CFM",
+        "B) 50 CFM",
+        "C) 75 CFM",
+        "D) 100 CFM"
+      ],
+      "correct": "B",
+      "explanation": "50 CFM is the magic number for most bathrooms - enough to clear moisture without wasting energy!"
+    },
+    {
+      "id": 13,
+      "level": 3,
+      "amount": "$300",
+      "category": "Foundation Knowledge",
+      "question": "Which climate zone characteristic requires the most attention to cooling loads?",
+      "options": [
+        "A) Cold winters",
+        "B) High humidity",
+        "C) High solar radiation",
+        "D) Temperature swings"
+      ],
+      "correct": "C",
+      "explanation": "High solar radiation means major cooling loads - the sun is a powerful heating machine!"
+    },
+    {
+      "id": 14,
+      "level": 3,
+      "amount": "$300",
+      "category": "Foundation Knowledge",
+      "question": "What is the primary benefit of continuous insulation in wall systems?",
+      "options": [
+        "A) Easier installation",
+        "B) Lower material costs",
+        "C) Reduced thermal bridging", 
+        "D) Better moisture control"
+      ],
+      "correct": "C",
+      "explanation": "Continuous insulation wraps your building like a thermal blanket, eliminating those pesky thermal bridges!"
+    },
+    {
+      "id": 15,
+      "level": 3,
+      "amount": "$300",
+      "category": "Foundation Knowledge",
+      "question": "Which building component has the greatest impact on overall energy performance?",
+      "options": [
+        "A) Windows",
+        "B) HVAC system",
+        "C) Building envelope",
+        "D) Lighting system"
+      ],
+      "correct": "C",
+      "explanation": "The building envelope is your energy fortress - get it right and everything else becomes easier!"
+    },
+    {
+      "id": 16,
+      "level": 4,
+      "amount": "$500",
+      "category": "Foundation Knowledge",
+      "question": "What does 'infiltration' mean in building science terms?",
+      "options": [
+        "A) Water entering through the roof",
+        "B) Uncontrolled air entering the building",
+        "C) Insects entering through gaps",
+        "D) Heat entering through windows"
+      ],
+      "correct": "B",
+      "explanation": "Infiltration is unwanted air sneaking into your building - it's the enemy of energy efficiency!"
+    },
+    {
+      "id": 17,
+      "level": 4,
+      "amount": "$500",
+      "category": "Foundation Knowledge",
+      "question": "Which factor most influences the dew point temperature in a wall assembly?",
+      "options": [
+        "A) Outdoor temperature",
+        "B) Indoor humidity levels",
+        "C) Wall thickness",
+        "D) Insulation type"
+      ],
+      "correct": "B",
+      "explanation": "Indoor humidity is the key player - more moisture in the air means higher dew point temperatures!"
+    },
+    {
+      "id": 18,
+      "level": 4,
+      "amount": "$500",
+      "category": "Foundation Knowledge",
+      "question": "What is the ideal relative humidity range for occupant comfort and building health?",
+      "options": [
+        "A) 20-40%",
+        "B) 30-50%",
+        "C) 40-60%",
+        "D) 50-70%"
+      ],
+      "correct": "B",
+      "explanation": "30-50% is the Goldilocks zone - not too dry, not too humid, just right for people and buildings!"
+    },
+    {
+      "id": 19,
+      "level": 4,
+      "amount": "$500",
+      "category": "Foundation Knowledge",
+      "question": "Which type of heat transfer occurs through direct contact between materials?",
+      "options": [
+        "A) Convection",
+        "B) Radiation", 
+        "C) Conduction",
+        "D) Infiltration"
+      ],
+      "correct": "C",
+      "explanation": "Conduction is heat traveling through direct contact - like touching a hot stove!"
+    },
+    {
+      "id": 20,
+      "level": 4,
+      "amount": "$500",
+      "category": "Foundation Knowledge",
+      "question": "What is the most effective strategy for reducing cooling loads in hot climates?",
+      "options": [
+        "A) Increasing insulation",
+        "B) Reducing solar heat gain",
+        "C) Improving air sealing",
+        "D) Installing efficient HVAC"
+      ],
+      "correct": "B",
+      "explanation": "Block that sun! Reducing solar heat gain keeps the cooling load manageable from the start!"
+    },
+    {
+      "id": 21,
+      "level": 5,
+      "amount": "$1,000",
+      "category": "Building Confidence",
+      "question": "What is the 'pressure boundary' in a building?",
+      "options": [
+        "A) The structural load-bearing elements",
+        "B) The continuous air barrier system",
+        "C) The moisture control layer",
+        "D) The insulation system"
+      ],
+      "correct": "B",
+      "explanation": "The pressure boundary is your air barrier system - it controls where air can and cannot flow!"
+    },
+    {
+      "id": 22,
+      "level": 5,
+      "amount": "$1,000",
+      "category": "Building Confidence",
+      "question": "Which phenomenon can cause ice dams on roofs?",
+      "options": [
+        "A) Excessive roof ventilation",
+        "B) Heat loss from the building interior",
+        "C) Poor drainage design",
+        "D) Inadequate roof slope"
+      ],
+      "correct": "B",
+      "explanation": "Heat escaping from inside melts snow, which refreezes at the cold eaves - creating those troublesome ice dams!"
+    },
+    {
+      "id": 23,
+      "level": 5,
+      "amount": "$1,000",
+      "category": "Building Confidence",
+      "question": "What does 'psychrometrics' study in building science?",
+      "options": [
+        "A) Structural psychology of occupants",
+        "B) Properties of moist air",
+        "C) Thermal comfort preferences",
+        "D) Sound transmission through walls"
+      ],
+      "correct": "B",
+      "explanation": "Psychrometrics is the science of moist air - understanding how temperature, humidity, and air pressure interact!"
+    },
+    {
+      "id": 24,
+      "level": 5,
+      "amount": "$1,000",
+      "category": "Building Confidence",
+      "question": "Which wall assembly strategy is most effective in mixed climates?",
+      "options": [
+        "A) Vapor barrier on interior side",
+        "B) Vapor barrier on exterior side", 
+        "C) Vapor retarder or no vapor barrier",
+        "D) Double vapor barrier system"
+      ],
+      "correct": "C",
+      "explanation": "Mixed climates need flexibility - a vapor retarder or no vapor barrier allows the wall to dry in both directions!"
+    },
+    {
+      "id": 25,
+      "level": 5,
+      "amount": "$1,000",
+      "category": "Building Confidence",
+      "question": "What is the primary concern with 'thermal mass' in building design?",
+      "options": [
+        "A) Structural weight limits",
+        "B) Timing of heat storage and release",
+        "C) Installation complexity",
+        "D) Material costs"
+      ],
+      "correct": "B",
+      "explanation": "Thermal mass is all about timing - storing heat when you don't need it and releasing it when you do!"
+    },
+    {
+      "id": 26,
+      "level": 6,
+      "amount": "$2,000",
+      "category": "Building Confidence",
+      "question": "What is 'driving rain' and why is it significant in building design?",
+      "options": [
+        "A) Rain that penetrates through gravity alone",
+        "B) Rain driven against surfaces by wind pressure",
+        "C) Rain that flows along building surfaces",
+        "D) Rain collected for building use"
+      ],
+      "correct": "B",
+      "explanation": "Driving rain is wind-powered water - it can push moisture through the smallest gaps in your building envelope!"
+    },
+    {
+      "id": 27,
+      "level": 6,
+      "amount": "$2,000",
+      "category": "Building Confidence",
+      "question": "Which factor is most critical for proper attic ventilation design?",
+      "options": [
+        "A) Total ventilation area",
+        "B) Balanced intake and exhaust",
+        "C) Type of ventilation system",
+        "D) Location of ventilation openings"
+      ],
+      "correct": "B",
+      "explanation": "Balance is key! You need equal intake and exhaust for proper airflow - like breathing in AND out!"
+    },
+    {
+      "id": 28,
+      "level": 6,
+      "amount": "$2,000",
+      "category": "Building Confidence",
+      "question": "What does 'hygrothermal' analysis consider in building science?",
+      "options": [
+        "A) Heat and air movement only",
+        "B) Moisture and structural loads",
+        "C) Heat and moisture interactions",
+        "D) Air quality and thermal comfort"
+      ],
+      "correct": "C",
+      "explanation": "Hygrothermal analysis studies the dynamic duo of heat and moisture - how they interact and move through materials!"
+    },
+    {
+      "id": 29,
+      "level": 6,
+      "amount": "$2,000",
+      "category": "Building Confidence",
+      "question": "Which building orientation strategy is most effective for passive cooling?",
+      "options": [
+        "A) Long axis facing east-west",
+        "B) Long axis facing north-south", 
+        "C) Diagonal orientation to prevailing winds",
+        "D) Circular building shape"
+      ],
+      "correct": "B",
+      "explanation": "North-south orientation minimizes east and west sun exposure - those are the killer directions for overheating!"
+    },
+    {
+      "id": 30,
+      "level": 6,
+      "amount": "$2,000",
+      "category": "Building Confidence",
+      "question": "What is the primary purpose of a 'rainscreen' wall system?",
+      "options": [
+        "A) Provide structural support",
+        "B) Improve thermal performance",
+        "C) Manage moisture drainage and drying",
+        "D) Reduce construction costs"
+      ],
+      "correct": "C",
+      "explanation": "A rainscreen creates a drainage plane and drying space - it's like an umbrella with ventilation for your walls!"
+    },
+    {
+      "id": 31,
+      "level": 7,
+      "amount": "$4,000",
+      "category": "Building Confidence",
+      "question": "What does 'capillary action' describe in building moisture management?",
+      "options": [
+        "A) Water movement through tiny pores and spaces",
+        "B) Condensation formation on cold surfaces",
+        "C) Water evaporation from building materials", 
+        "D) Pressure-driven water infiltration"
+      ],
+      "correct": "A",
+      "explanation": "Capillary action is like a straw effect - water climbs through tiny spaces against gravity!"
+    },
+    {
+      "id": 32,
+      "level": 7,
+      "amount": "$4,000",
+      "category": "Building Confidence",
+      "question": "Which phenomenon explains why basements tend to be humid in summer?",
+      "options": [
+        "A) Ground water infiltration",
+        "B) Stack effect drawing humid air down",
+        "C) Condensation on cool surfaces",
+        "D) Poor foundation ventilation"
+      ],
+      "correct": "C",
+      "explanation": "Cool basement surfaces are condensation magnets when humid summer air hits them - like a cold drink on a hot day!"
+    },
+    {
+      "id": 33,
+      "level": 7,
+      "amount": "$4,000",
+      "category": "Building Confidence", 
+      "question": "What is 'thermal lag' in building thermal mass applications?",
+      "options": [
+        "A) Delay between temperature changes inside and outside",
+        "B) Time required to heat thermal mass",
+        "C) Delay in HVAC system response",
+        "D) Time for insulation to become effective"
+      ],
+      "correct": "A",
+      "explanation": "Thermal lag is like a time delay - thermal mass slows down temperature swings between inside and outside!"
+    },
+    {
+      "id": 34,
+      "level": 7,
+      "amount": "$4,000",
+      "category": "Building Confidence",
+      "question": "Which building science principle explains why humidity control is crucial in mixed climates?",
+      "options": [
+        "A) Seasonal vapor drive direction changes",
+        "B) Higher cooling loads in summer",
+        "C) Variable heating requirements",
+        "D) Changing occupancy patterns"
+      ],
+      "correct": "A",
+      "explanation": "In mixed climates, vapor drive flips direction seasonally - summer pushes moisture in, winter pushes it out!"
+    },
+    {
+      "id": 35,
+      "level": 7,
+      "amount": "$4,000",
+      "category": "Building Confidence",
+      "question": "What is the 'neutral pressure plane' in a building?",
+      "options": [
+        "A) The level where indoor and outdoor pressures are equal",
+        "B) The structural center of the building",
+        "C) The thermal center of the building envelope",
+        "D) The level of minimum air leakage"
+      ],
+      "correct": "A",
+      "explanation": "The neutral pressure plane is where pressure forces balance out - above it, air wants to escape; below it, air wants to enter!"
+    },
+    {
+      "id": 36,
+      "level": 8,
+      "amount": "$8,000",
+      "category": "Building Confidence",
+      "question": "Which factor most significantly affects the performance of radiant barrier systems?",
+      "options": [
+        "A) Material thickness",
+        "B) Surface emissivity",
+        "C) Installation orientation",
+        "D) Adjacent air space"
+      ],
+      "correct": "D",
+      "explanation": "Radiant barriers need an air space to work their magic - without it, they become expensive conductors!"
+    },
+    {
+      "id": 37,
+      "level": 8,
+      "amount": "$8,000",
+      "category": "Building Confidence",
+      "question": "What is 'interstitial condensation' in wall assemblies?",
+      "options": [
+        "A) Condensation on interior wall surfaces",
+        "B) Condensation within the wall assembly",
+        "C) Condensation on exterior wall surfaces", 
+        "D) Condensation in HVAC ducts"
+      ],
+      "correct": "B",
+      "explanation": "Interstitial condensation is the hidden enemy - moisture condensing inside your wall where you can't see it!"
+    },
+    {
+      "id": 38,
+      "level": 8,
+      "amount": "$8,000",
+      "category": "Building Confidence",
+      "question": "Which ventilation strategy is most effective for removing moisture from crawl spaces?",
+      "options": [
+        "A) Natural ventilation with foundation vents",
+        "B) Mechanical exhaust ventilation",
+        "C) Supply ventilation from conditioned space",
+        "D) Sealed crawl space with dehumidification"
+      ],
+      "correct": "D",
+      "explanation": "Seal it and control it! A conditioned crawl space with dehumidification beats the old ventilation approach!"
+    },
+    {
+      "id": 39,
+      "level": 8,
+      "amount": "$8,000",
+      "category": "Building Confidence",
+      "question": "What does 'sorption' describe in building material science?",
+      "options": [
+        "A) Structural material properties",
+        "B) Material ability to absorb and release moisture",
+        "C) Thermal conductivity changes", 
+        "D) Material degradation over time"
+      ],
+      "correct": "B",
+      "explanation": "Sorption is a material's breathing ability - how it takes in and gives off moisture with changing conditions!"
+    },
+    {
+      "id": 40,
+      "level": 8,
+      "amount": "$8,000",
+      "category": "Building Confidence",
+      "question": "Which factor is most critical in preventing mold growth in buildings?",
+      "options": [
+        "A) Temperature control",
+        "B) Air circulation",
+        "C) Moisture control",
+        "D) Light exposure"
+      ],
+      "correct": "C",
+      "explanation": "Moisture is mold's best friend - control the water and you control the fungus among us!"
+    },
+    {
+      "id": 41,
+      "level": 9,
+      "amount": "$16,000",
+      "category": "Building Confidence", 
+      "question": "What is 'thermal bridging' through structural elements primarily caused by?",
+      "options": [
+        "A) Poor insulation installation",
+        "B) Continuous conductive materials through insulation",
+        "C) Air leakage paths",
+        "D) Inadequate vapor barriers"
+      ],
+      "correct": "B",
+      "explanation": "Thermal bridging happens when conductive materials like steel studs create heat highways through your insulation!"
+    },
+    {
+      "id": 42,
+      "level": 9,
+      "amount": "$16,000",
+      "category": "Building Confidence",
+      "question": "Which building science concept explains why vapor barriers can sometimes cause problems?",
+      "options": [
+        "A) They trap moisture that enters from other sources",
+        "B) They reduce thermal performance",
+        "C) They increase air leakage",
+        "D) They create structural problems"
+      ],
+      "correct": "A",
+      "explanation": "Vapor barriers can be too good at their job - they trap moisture that sneaks in through other paths, creating problems!"
+    },
+    {
+      "id": 43,
+      "level": 9,
+      "amount": "$16,000",
+      "category": "Building Confidence",
+      "question": "What is the primary mechanism of heat transfer in natural convection?",
+      "options": [
+        "A) Density differences due to temperature",
+        "B) Wind pressure differentials",
+        "C) Electromagnetic radiation",
+        "D) Molecular vibration"
+      ],
+      "correct": "A",
+      "explanation": "Natural convection is driven by density changes - warm air is lighter and rises, creating circulation patterns!"
+    },
+    {
+      "id": 44,
+      "level": 9,
+      "amount": "$16,000",
+      "category": "Building Confidence",
+      "question": "Which factor most influences the drying potential of building assemblies?",
+      "options": [
+        "A) Total insulation thickness",
+        "B) Vapor permeability of materials",
+        "C) Air barrier continuity",
+        "D) Structural design"
+      ],
+      "correct": "B",
+      "explanation": "Vapor permeability determines drying potential - materials need to let moisture escape when conditions are right!"
+    },
+    {
+      "id": 45,
+      "level": 9,
+      "amount": "$16,000",
+      "category": "Building Confidence",
+      "question": "What does 'hygroscopic' mean when describing building materials?",
+      "options": [
+        "A) Materials that repel water",
+        "B) Materials that absorb and release moisture based on humidity",
+        "C) Materials that conduct heat well",
+        "D) Materials that resist vapor transmission"
+      ],
+      "correct": "B",
+      "explanation": "Hygroscopic materials are like sponges that respond to humidity - they absorb moisture when it's humid and release it when it's dry!"
+    },
+    {
+      "id": 46,
+      "level": 10,
+      "amount": "$32,000",
+      "category": "Building Confidence",
+      "question": "What is 'buoyancy-driven airflow' in building science?",
+      "options": [
+        "A) Airflow caused by wind pressure",
+        "B) Airflow caused by mechanical systems",
+        "C) Airflow caused by temperature-induced density differences",
+        "D) Airflow caused by humidity differences"
+      ],
+      "correct": "C",
+      "explanation": "Buoyancy-driven airflow is nature's air conditioning - temperature differences create density differences that drive air movement!"
+    },
+    {
+      "id": 47,
+      "level": 10,
+      "amount": "$32,000",
+      "category": "Building Confidence",
+      "question": "Which phenomenon can cause 'reverse stack effect' in buildings?",
+      "options": [
+        "A) Strong winds",
+        "B) Air conditioning creating cooler indoor temperatures",
+        "C) Mechanical ventilation systems",
+        "D) High indoor humidity"
+      ],
+      "correct": "B",
+      "explanation": "When indoor air is cooler than outdoor air, the stack effect reverses - cool air sinks instead of rises!"
+    },
+    {
+      "id": 48,
+      "level": 10,
+      "amount": "$32,000",
+      "category": "Building Confidence",
+      "question": "What is 'vapor drive' in building envelope design?",
+      "options": [
+        "A) Mechanical ventilation force",
+        "B) The natural force moving water vapor from high to low vapor pressure",
+        "C) Wind-driven moisture penetration", 
+        "D) The speed of vapor transmission"
+      ],
+      "correct": "B",
+      "explanation": "Vapor drive is like air pressure for moisture - water vapor always wants to move from high vapor pressure to low vapor pressure!"
+    },
+    {
+      "id": 49,
+      "level": 10,
+      "amount": "$32,000",
+      "category": "Building Confidence",
+      "question": "Which building assembly characteristic is most important for climate resilience?",
+      "options": [
+        "A) High thermal mass",
+        "B) Drying potential in multiple directions",
+        "C) Maximum insulation levels",
+        "D) Vapor impermeability"
+      ],
+      "correct": "B",
+      "explanation": "Drying potential is your safety net - when things go wrong (and they will), your building needs to dry out!"
+    },
+    {
+      "id": 50,
+      "level": 10,
+      "amount": "$32,000",
+      "category": "Building Confidence", 
+      "question": "What does 'buffer capacity' refer to in hygrothermal building performance?",
+      "options": [
+        "A) Structural load-bearing capacity",
+        "B) Ability to moderate indoor humidity fluctuations",
+        "C) Thermal mass storage capacity",
+        "D) Air leakage resistance"
+      ],
+      "correct": "B",
+      "explanation": "Buffer capacity is like a humidity shock absorber - materials that can smooth out moisture swings in your indoor environment!"
+    },
+    {
+      "id": 51,
+      "level": 11,
+      "amount": "$64,000",
+      "category": "High Stakes Drama",
+      "question": "What is the primary limitation of steady-state thermal analysis in building science?",
+      "options": [
+        "A) It ignores thermal mass effects",
+        "B) It doesn't account for air leakage",
+        "C) It assumes constant outdoor conditions",
+        "D) It oversimplifies material properties"
+      ],
+      "correct": "A",
+      "explanation": "Steady-state analysis treats buildings like they have no thermal memory - it ignores how thermal mass stores and releases heat over time!"
+    },
+    {
+      "id": 52,
+      "level": 11,
+      "amount": "$64,000",
+      "category": "High Stakes Drama",
+      "question": "Which factor is most critical in determining the optimal placement of vapor control layers?",
+      "options": [
+        "A) Insulation type and thickness",
+        "B) Climate-specific vapor drive direction",
+        "C) Structural member spacing",
+        "D) Interior finish materials"
+      ],
+      "correct": "B",
+      "explanation": "Climate rules the vapor game! You need to understand which direction moisture wants to move in your specific climate!"
+    },
+    {
+      "id": 53,
+      "level": 11,
+      "amount": "$64,000",
+      "category": "High Stakes Drama",
+      "question": "What does 'coupling' refer to in building energy modeling?",
+      "options": [
+        "A) Connecting building zones",
+        "B) Interactions between different heat transfer mechanisms",
+        "C) Linking HVAC systems",
+        "D) Joining building components"
+      ],
+      "correct": "B",
+      "explanation": "Coupling recognizes that heat, air, and moisture don't work alone - they interact and influence each other in complex ways!"
+    },
+    {
+      "id": 54,
+      "level": 11,
+      "amount": "$64,000",
+      "category": "High Stakes Drama",
+      "question": "Which phenomenon explains why some high-performance buildings experience unexpected moisture problems?",
+      "options": [
+        "A) Over-insulation effects",
+        "B) Reduced drying potential due to low permeability assemblies",
+        "C) Inadequate ventilation design",
+        "D) Thermal bridging issues"
+      ],
+      "correct": "B",
+      "explanation": "The tighter and more vapor-impermeable we make buildings, the less forgiving they become when moisture finds its way in!"
+    },
+    {
+      "id": 55,
+      "level": 11,
+      "amount": "$64,000",
+      "category": "High Stakes Drama",
+      "question": "What is 'moisture capacitance' in hygrothermal modeling?",
+      "options": [
+        "A) Maximum moisture content of a material",
+        "B) Rate of moisture absorption",
+        "C) A material's ability to store and release moisture",
+        "D) Resistance to moisture flow"
+      ],
+      "correct": "C",
+      "explanation": "Moisture capacitance is like electrical capacitance but for water - it's how materials store and release moisture over time!"
+    },
+    {
+      "id": 56,
+      "level": 12,
+      "amount": "$125,000",
+      "category": "High Stakes Drama",
+      "question": "Which building science principle explains the superior performance of exterior continuous insulation?",
+      "options": [
+        "A) It eliminates all thermal bridging",
+        "B) It moves the dew point outside the structural assembly",
+        "C) It provides better air sealing",
+        "D) It increases thermal mass effects"
+      ],
+      "correct": "B",
+      "explanation": "Exterior continuous insulation moves the dew point out where it belongs - away from the structural elements where condensation can cause damage!"
+    },
+    {
+      "id": 57,
+      "level": 12,
+      "amount": "$125,000",
+      "category": "High Stakes Drama",
+      "question": "What does 'thermal admittance' describe in dynamic thermal analysis?",
+      "options": [
+        "A) Heat capacity of materials",
+        "B) The complex relationship between heat flow and temperature over time",
+        "C) Thermal conductivity variations",
+        "D) Surface temperature fluctuations"
+      ],
+      "correct": "B",
+      "explanation": "Thermal admittance captures the complex dance between heat flow and temperature - it's like thermal impedance in electrical circuits!"
+    },
+    {
+      "id": 58,
+      "level": 12,
+      "amount": "$125,000",
+      "category": "High Stakes Drama",
+      "question": "Which factor most significantly influences the risk of frost formation in wall cavities?",
+      "options": [
+        "A) Outdoor temperature extremes",
+        "B) Indoor humidity levels relative to wall temperature distribution",
+        "C) Wind speed and direction",
+        "D) Insulation thermal resistance"
+      ],
+      "correct": "B",
+      "explanation": "Frost formation is all about the relationship between moisture content and temperature - when humid indoor air meets cold surfaces!"
+    },
+    {
+      "id": 59,
+      "level": 12,
+      "amount": "$125,000", 
+      "category": "High Stakes Drama",
+      "question": "What is 'moisture redistribution' in building assemblies?",
+      "options": [
+        "A) Even moisture distribution throughout materials",
+        "B) Movement of moisture from wet to dry areas within assemblies",
+        "C) Mechanical moisture removal systems",
+        "D) Seasonal moisture pattern changes"
+      ],
+      "correct": "B",
+      "explanation": "Moisture redistribution is nature's attempt to equalize - moisture moves from wet spots to dry spots within building assemblies!"
+    },
+    {
+      "id": 60,
+      "level": 12,
+      "amount": "$125,000",
+      "category": "High Stakes Drama",
+      "question": "Which building science concept explains why some 'breathable' wall systems still fail?",
+      "options": [
+        "A) Insufficient vapor permeability",
+        "B) Lack of air barrier continuity allowing bulk moisture transport",
+        "C) Inadequate thermal resistance",
+        "D) Poor material compatibility"
+      ],
+      "correct": "B",
+      "explanation": "Even breathable walls fail if air leaks carry bulk moisture into the assembly - vapor permeability can't handle that much water!"
+    },
+    {
+      "id": 61,
+      "level": 13,
+      "amount": "$250,000",
+      "category": "High Stakes Drama",
+      "question": "What is 'convective coupling' in advanced building energy modeling?",
+      "options": [
+        "A) Air movement between building zones",
+        "B) The interaction between convective heat transfer and airflow patterns",
+        "C) HVAC system interconnections", 
+        "D) Thermal stratification effects"
+      ],
+      "correct": "B",
+      "explanation": "Convective coupling recognizes that heat transfer and airflow are intimately connected - they influence each other in complex feedback loops!"
+    },
+    {
+      "id": 62,
+      "level": 13,
+      "amount": "$250,000",
+      "category": "High Stakes Drama",
+      "question": "Which phenomenon can cause 'moisture accumulation ratcheting' in building assemblies?",
+      "options": [
+        "A) Seasonal temperature cycles",
+        "B) Asymmetric drying and wetting rates",
+        "C) Variable occupancy patterns",
+        "D) Changing material properties"
+      ],
+      "correct": "B",
+      "explanation": "Moisture ratcheting occurs when assemblies get wet faster than they can dry - like a moisture trap that slowly fills up over time!"
+    },
+    {
+      "id": 63,
+      "level": 13,
+      "amount": "$250,000",
+      "category": "High Stakes Drama",
+      "question": "What does 'hygrothermal buffering' provide in building performance?",
+      "options": [
+        "A) Structural moisture resistance",
+        "B) Moderation of indoor humidity and temperature swings",
+        "C) Enhanced thermal mass effects",
+        "D) Improved air quality"
+      ],
+      "correct": "B",
+      "explanation": "Hygrothermal buffering is like a climate shock absorber - materials that smooth out both temperature and humidity fluctuations!"
+    },
+    {
+      "id": 64,
+      "level": 13,
+      "amount": "$250,000",
+      "category": "High Stakes Drama",
+      "question": "Which factor is most critical in the design of 'moisture-safe' building assemblies?",
+      "options": [
+        "A) Minimum vapor permeability requirements",
+        "B) Redundant moisture management strategies",
+        "C) Maximum thermal resistance levels",
+        "D) Standardized construction details"
+      ],
+      "correct": "B",
+      "explanation": "Moisture safety requires redundancy - multiple strategies working together so that when one fails, others can compensate!"
+    },
+    {
+      "id": 65,
+      "level": 13,
+      "amount": "$250,000",
+      "category": "High Stakes Drama",
+      "question": "What is 'phase change thermal storage' in advanced building systems?",
+      "options": [
+        "A) Seasonal energy storage systems",
+        "B) Materials that store and release heat during melting and freezing",
+        "C) Variable thermal mass systems",
+        "D) Temperature-controlled storage rooms"
+      ],
+      "correct": "B",
+      "explanation": "Phase change materials are thermal batteries - they absorb huge amounts of heat when melting and release it when freezing!"
+    },
+    {
+      "id": 66,
+      "level": 14,
+      "amount": "$500,000",
+      "category": "Maximum Suspense",
+      "question": "Which advanced building science principle explains the failure of some 'perfect' vapor barrier installations?",
+      "options": [
+        "A) Installation workmanship issues",
+        "B) The creation of moisture traps that prevent assembly drying",
+        "C) Inadequate thermal performance",
+        "D) Material degradation over time"
+      ],
+      "correct": "B",
+      "explanation": "Perfect vapor barriers can create perfect traps - preventing not just vapor drive but also the drying that buildings need when things go wrong!"
+    },
+    {
+      "id": 67,
+      "level": 14,
+      "amount": "$500,000",
+      "category": "Maximum Suspense",
+      "question": "What does 'transient hygrothermal modeling' reveal about building performance that steady-state analysis misses?",
+      "options": [
+        "A) Average annual conditions",
+        "B) Peak load conditions only",
+        "C) Time-dependent moisture accumulation and release patterns",
+        "D) Simple heat transfer calculations"
+      ],
+      "correct": "C",
+      "explanation": "Transient modeling reveals the time dimension - how moisture accumulates during wet periods and whether it can dry out during favorable conditions!"
+    },
+    {
+      "id": 68,
+      "level": 14,
+      "amount": "$500,000",
+      "category": "Maximum Suspense",
+      "question": "Which factor most influences the 'critical moisture content' for mold growth in building materials?",
+      "options": [
+        "A) Material porosity",
+        "B) Surface pH and nutrient availability",
+        "C) Ambient temperature levels",
+        "D) Air circulation rates"
+      ],
+      "correct": "B",
+      "explanation": "Critical moisture content for mold depends on the material's chemistry - pH and available nutrients determine how much moisture is needed for fungal growth!"
+    },
+    {
+      "id": 69,
+      "level": 14,
+      "amount": "$500,000",
+      "category": "Maximum Suspense",
+      "question": "What is 'moisture flux divergence' in advanced hygrothermal analysis?",
+      "options": [
+        "A) Uneven moisture distribution patterns",
+        "B) The mathematical expression of moisture accumulation or depletion at specific points",
+        "C) Different moisture movement directions",
+        "D) Separation of liquid and vapor transport"
+      ],
+      "correct": "B",
+      "explanation": "Moisture flux divergence is the calculus of moisture - it mathematically describes where moisture accumulates or depletes within building assemblies!"
+    },
+    {
+      "id": 70,
+      "level": 14,
+      "amount": "$500,000",
+      "category": "Maximum Suspense",
+      "question": "Which building science phenomenon explains why some high-performance buildings have higher failure rates?",
+      "options": [
+        "A) Increased complexity reducing reliability",
+        "B) Reduced fault tolerance due to optimized designs",
+        "C) Higher occupant expectations",
+        "D) More stringent building codes"
+      ],
+      "correct": "B",
+      "explanation": "High-performance buildings are often optimized to the edge - they have less margin for error and reduced ability to tolerate faults!"
+    },
+    {
+      "id": 71,
+      "level": 15,
+      "amount": "$1,000,000",
+      "category": "Ultimate Challenge",
+      "question": "What is the fundamental thermodynamic principle that explains why 'perfect' buildings are theoretically impossible?",
+      "options": [
+        "A) Conservation of energy",
+        "B) The second law of thermodynamics and entropy increase",
+        "C) Heat transfer always occurs",
+        "D) Material properties are never ideal"
+      ],
+      "correct": "B",
+      "explanation": "The second law of thermodynamics tells us that entropy always increases - perfect buildings would require reversing natural processes, which is impossible in a closed system!"
+    }
+  ],
+  "lifelines": {
+    "fiftyFifty": "removes two incorrect answers",
+    "phoneAFriend": "provides expert hint based on difficulty level", 
+    "askAudience": "provides audience polling results"
+  },
+  "catchphrases": [
+    "Is that your FINAL answer?",
+    "You're doing TERRIFIC!",
+    "Oh my goodness!",
+    "That's FANTASTIC!",
+    "You really know your stuff!",
+    "TREMENDOUS!",
+    "You're on fire today!",
+    "Beautiful answer!",
+    "OUTSTANDING!",
+    "What a performance!",
+    "You're building something special here!",
+    "That's some serious building science expertise!",
+    "Your knowledge foundation is SOLID!",
+    "You're constructing a wonderful game!",
+    "SPECTACULAR building science!"
+  ]
+}
